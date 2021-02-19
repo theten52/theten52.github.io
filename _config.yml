@@ -1,27 +1,27 @@
 # Basic
-title: Robotkang
+title: theten52
 subtitle: 欢迎来到我的个人网站
 description: 科技、生活、音乐、人生
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: theten52
 # 头像里面的描述
-avatarDesc: 机器人赛事
-url: "https://robotkang.cc"
+avatarDesc: 软件工程学
+url: "http://blog.theten52.cn"
 
 # Comment
 comment:
-    provider: duoshuo
-    duoshuo:
-    short_name: robotkang
+    #provider: duoshuo
+    #duoshuo:
+    #short_name: robotkang
 
 # Social
 social:
-    weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
+#    weibo: 123456789
+    weixing: wangjin086
+    github: https://github.com/theten52
     # twitter: 
-    mail: robotkang@foxmail.com
-    csdn: robotkang
+    mail: 1018863434@qq.com
+    csdn: https://blog.csdn.net/qq_14947845
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
