@@ -3,25 +3,22 @@ layout: page
 title: 关于我「ABOUT ME」 
 date: 2020-01-20
 ---
-<a href="/photos/" target="_blank"><img src="https://blog.theten52.cn/images/avatar.jpg" width="150" height="150" alt="photos"/></a>
+<a><img src="https://blog.theten52.cn/images/avatar.jpg" width="150" height="150" alt="photos"/></a>
 
 <p>
-一个永不止步的攻城狮 <a href="/Mr.Kang_Developer/" target="_blank"> 「我的简历」 </a>    
+一个永不止步的攻城狮 <a href="/my_resume/" target="_blank"> 「我的简历」 </a>    
 
 
 
 <div style="color:#FF6633">
-<p>	三尺微命，一介书生🧒。求学于卫星湖畔，黄瓜山下，欲潜心研究智能机器人开发应用之道。然所学颇杂，对诸多方面均有涉猎，喜欢研究一些新技术和关注一些最新的科技~ 
+<p>	三尺微命，一介书生🧒。喜欢研究一些新技术和关注一些最新的科技~ 
 </p>
 </div>
 <p>
 平时喜欢整理个人博客，逛逛技术论坛 💯     
-<p>
-喜欢日本，想着如果有机会一定会去日本生活一段时间        
+
 <div style="color:#008B00">
 <p>
-喜欢Spoken English，虽然现在很渣，但一直在努力...        
-</p>
 
 </div>
 <p>
